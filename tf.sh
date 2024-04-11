@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Replace this with your actual personal access token
-ACCESS_TOKEN="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"
+ACCESS_TOKEN="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"
 
 # Your GitHub username
 GITHUB_USERNAME="Feel-The-AGI"
