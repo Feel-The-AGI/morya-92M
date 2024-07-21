@@ -18,7 +18,7 @@ To get started with Morya-92M, ensure you have Python 3.11+ installed. Then, fol
 1. Clone the MoryaAI repository:
 
 ```bash
-git clone <repository-link>
+git clone <https://github.com/mirya_92m.git>
 cd MoryaAI/server
 ```
 2. Create and Activate a virtual environment.
